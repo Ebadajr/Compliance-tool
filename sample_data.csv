@@ -1,0 +1,9 @@
+Date submitted,User ID,Source of income,Are you a freelancer,Occupation,Employer name,Monthly income,Document 1,Document 2
+2024-11-01,USR-001,Salary,No,Software Engineer,Acme Corp,12000,https://example.com/doc1.pdf,https://example.com/doc2.pdf
+2024-11-03,USR-002,Freelance,Yes,Graphic Designer,,8500,https://example.com/doc3.pdf,
+2024-11-05,USR-003,Business,No,Business Owner,XYZ LLC,25000,https://example.com/doc5.pdf,https://example.com/doc6.pdf
+2024-11-07,USR-004,Salary,No,Accountant,Finance Co,9000,https://example.com/doc7.pdf,https://example.com/doc8.pdf
+2024-11-10,USR-005,Investments,No,Investor,,50000,https://example.com/doc9.pdf,
+2024-11-12,USR-006,Freelance,Yes,Writer,,4000,https://example.com/doc11.pdf,https://example.com/doc12.pdf
+2024-11-14,USR-007,Salary,No,Marketing Manager,Brand Inc,11000,https://example.com/doc13.pdf,
+2024-11-15,USR-008,Business,No,Restaurant Owner,Tasty LLC,18000,https://example.com/doc15.pdf,https://example.com/doc16.pdf
